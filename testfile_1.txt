@@ -1,1 +1,2 @@
 This is a test file created during git training
+Second line added after the initial commit.
